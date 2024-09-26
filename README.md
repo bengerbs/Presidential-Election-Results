@@ -4,8 +4,7 @@ With the presidential election just over a month away, I created a Tableau dashb
 
 Unlike standard visualizations that emphasize real-time projections, this dashboard highlights past trends side by side with modern results. Users can not only see which party won each state, but also how decisive the victory was. The shading of each state provides an intuitive way to visualize the margin of victory, revealing whether a state was solidly won or hotly contested.
 
-Here is a link to the [dashboard](https://public.tableau.com/a![Historical U S  Presidential Election Results](https://github.com/user-attachments/assets/afe3c89a-affe-43f8-a704-996c2edaa74c)
-pp/profile/ben.gerber/viz/PresidentialElectionHistory/Dashboard1?publish=yes) on Tableau Public.
+Here is a link to the [dashboard](https://public.tableau.com/app/profile/ben.gerber/viz/PresidentialElectionHistory/Dashboard1?publish=yes) on Tableau Public.
 
 Here is a screenshot of the dashboard:
 
